@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+}
+
+.container {
+    display: flex;
+    background-color: floralwhite
+}
+
+.item{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(16, 16, 184);
+}
