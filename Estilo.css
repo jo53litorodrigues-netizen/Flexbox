@@ -4,11 +4,18 @@ body {
 
 .container {
     display: flex;
-    background-color: floralwhite
+    background-color: rgb(32, 140, 212);
+    gap: 10px;
+    height: 600px;
+    align-items: stretch;
 }
 
-.item{
+.item {
     width: 200px;
     height: 200px;
-    background-color: rgb(16, 16, 184);
+    background-color: rgb(57, 57, 223);
+
+}
+.item1 {
+    f
 }
